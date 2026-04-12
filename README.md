@@ -1,5 +1,7 @@
 <div align="center">
   <h1>Natsukashi UI</h1>
-A nostalgic feeling android launcher designed after Japanese flip phones
-<hr>
+  <p align="center"><i>A nostalgic feeling android launcher designed after Japanese flip phones</i></p>
+</div>
+<div align="center">
+  
 </div>
