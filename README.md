@@ -1,7 +1,8 @@
 # Natsukashi UI
-*A nostalgic feeling android launcher designed after Japanese flip phones*
+*A nostalgic feeling android experiance designed after 2000s feature phones*
 
 ## What is this?:
+Natsukashi UI is both a custom home screen launcher and a full suite of apps that make your android based flip phone really feel like one straight out of 2005!
 
 ## Installation:
 To install Natsukashi UI, simply download the latest version of the app from "here".
