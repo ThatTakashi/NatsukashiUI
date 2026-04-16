@@ -17,6 +17,7 @@ Here is a list of places where I can be reached:
 - Reddit | u/Demand_Awkward
 - Discord | @thattakashi
 - Tumblr | @thattaka
+
 You are also welcome to submit an issue on this repo containing the details of your request.
 
 ## Authors:
